@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**AODO123/AODO123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  $ whoami                                                                    │
+│                                                                              │
+│   ██████╗ ██████╗ ███████╗████████╗ █████╗                                   │
+│  ██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗                                  │
+│  ██║     ██║   ██║███████╗   ██║   ███████║                                  │
+│  ██║     ██║   ██║╚════██║   ██║   ██╔══██║                                  │
+│  ╚██████╗╚██████╔╝███████║   ██║   ██║  ██║                                  │
+│   ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝                                  │
+│                                                                              │
+│  ┌─ profile ──────────────────────────────────────────────────────────────┐  │
+│  │                                                                        │  │
+│  │  role       →  backend AI developer                                    │  │
+│  │  exploring  →  AI / ML · SaaS · systems that ship                      │  │ 
+│  │  mode       →  now or never                                            │  │
+│  │                                                                        │  │
+│  └────────────────────────────────────────────────────────────────────────┘  │
+│                                                                              │
+│  $ echo $MOTTO                                                               │
+│  > "why not bro."                                                            │ 
+│                                                                              │
+│  $ ./continue_building --why-not                                             │
+│  > initializing...                                                           │
+│  > ████████████████████████████████████████ 100%                             │
+│  > process running...                                                        │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
